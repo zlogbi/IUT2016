@@ -8,6 +8,7 @@ find -name '*.java'
 
 
 2 - compter
+find ./ -type f | wc -l
 
 
 3 - lister les fichiers et leur nombre de ligne de code
